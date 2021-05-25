@@ -6,7 +6,7 @@
 
 * [NetworkDynamics.jl -- Composing and simulating complex networks in Julia](https://arxiv.org/abs/2012.12696) (2021) by Michael Lindner et al. Discussed [here](https://fortran-lang.discourse.group/t/research-articles-using-fortran/1101/6?u=beliavsky). Network Dynamics Benchmarks comparing Fortran, Julia and Python [here](https://github.com/PIK-ICoN/NetworkDynamicsBenchmarks)
 
-* [Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran  (2021) by Dries Benoit
+* [Performance comparison R, Julia, Fortran for Bayesian binary probit](https://github.com/driesbenoit/benchmark_R_Julia_Fortran)   (2021) by Dries Benoit
 
 * [The Quest for Speed - An Indicative Survey in Improving Performance](https://discourse.equadratures.org/t/the-quest-for-speed-an-indicative-survey-in-improving-performance/144) (2021) by Bryn Noel Ubald
 
